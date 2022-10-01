@@ -7,7 +7,9 @@
 
 ## Introduction
 
-A 1-2 sentence summary of what will be covered.
+It is important to know that there are **many** ways to read and write to a file
+in Java. Some of these ways may not make sense to us yet, as we have yet to
+cover a topic called "streams".
 
 ## Topic 1
 
