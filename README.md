@@ -172,7 +172,7 @@ in the file to read. Therefore, we will iterate through the file until the
 If we run the code above, we'll see that the output is exactly what we
 originally wrote to the file:
 
-```plaintext
+```text
 example of writing to a file.
 ```
 
